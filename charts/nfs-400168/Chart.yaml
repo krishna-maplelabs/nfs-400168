@@ -15,4 +15,4 @@ name: nfs-400168
 orig_name: nfs-server-provisioner
 sources:
 - https://github.com/kubernetes-incubator/external-storage/tree/master/nfs
-version: 0.3.1
+version: 0.0.1
